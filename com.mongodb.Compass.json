@@ -50,12 +50,6 @@
             "build-commands": [
                 "install -Dm755 -t /app/bin/ run.sh"
             ],
-            "build-options": {
-                "env": {
-                    "ZYPAK_SANDBOX_FILENAME": "chrome-sandbox",
-                    "ZYPAK_DEBUG": "1"
-                }
-            },
             "sources": [
                 {
                     "type": "script",
