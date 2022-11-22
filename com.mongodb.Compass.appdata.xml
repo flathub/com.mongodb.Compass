@@ -22,6 +22,7 @@
     <url type="homepage">https://www.mongodb.com/</url>
     <developer_name>MongoDB Inc.</developer_name>
     <releases>
+        <release version="1.33.1" date="2022-09-14"/>
         <release version="1.34.0" date="2022-11-21"/>
         <release version="1.33.1" date="2022-09-14"/>
         <release version="1.33.0" date="2022-08-30"/>
