@@ -1,3 +1,4 @@
-# com.mongodb.Compass
+# ⚠️ com.mongodb.Compass
 
-To see the changelog, please visit the official [release page on github](https://github.com/mongodb-js/compass/releases)
+This wrapper is on EOL support due to lack of time; nevertheless, I am active on Github, if you want to maintain this project, please open an issue on this repo.
+
