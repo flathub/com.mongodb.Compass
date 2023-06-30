@@ -77,8 +77,8 @@
                     "only-arches": [
                         "x86_64"
                     ],
-                    "url": "https://github.com/mongodb-js/compass/releases/download/v1.38.0/mongodb-compass-1.38.0-linux-x64.tar.gz",
-                    "sha256": "014d2e4859fd196683e6552f64cb4bac0903e18cc00328f4b70b1a5c901be79d",
+                    "url": "https://github.com/mongodb-js/compass/releases/download/v1.38.1/mongodb-compass-1.38.1-linux-x64.tar.gz",
+                    "sha256": "2d78fcc9d3f06186b1e108b3e858151803784ae8a86d8382499e73a60257fa3c",
                     "x-checker-data": {
                         "type": "json",
                         "url": "https://api.github.com/repos/mongodb-js/compass/releases/latest",
