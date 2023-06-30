@@ -6,4 +6,6 @@ Exec=run.sh %U
 Icon=com.mongodb.Compass
 Type=Application
 StartupNotify=true
-Categories=Utility;
+Categories=GNOME;GTK;Utility;
+MimeType=x-scheme-handler/mongodb;x-scheme-handler/mongodb+srv;
+
