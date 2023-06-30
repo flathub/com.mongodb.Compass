@@ -4,7 +4,7 @@
     <metadata_license>MIT</metadata_license>
     <project_license>SSPL-1.0</project_license>
     <name>MongoDB Compass</name>
-    <summary>The GUI for MongoDB</summary>
+    <summary>The MongoDB GUI</summary>
     <description>
         <p>
             Easily explore and manipulate your database with Compass, the GUI for MongoDB. Intuitive and flexible, Compass provides detailed schema visualizations, real-time performance metrics, sophisticated querying abilities, and much more.
