@@ -21,6 +21,7 @@
     </screenshots>
     <url type="homepage">https://www.mongodb.com/</url>
     <developer_name>MongoDB Inc.</developer_name>
+    <launchable type="desktop-id">com.mongodb.Compass</launchable>
     <releases>
         <release version="1.42.1" date="2024-02-15"/>
         <release version="1.42.0" date="2024-01-30"/>
