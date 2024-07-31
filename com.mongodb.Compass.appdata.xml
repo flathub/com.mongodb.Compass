@@ -23,8 +23,11 @@
     <developer_name>MongoDB Inc.</developer_name>
     <launchable type="desktop-id">com.mongodb.Compass.desktop</launchable>
     <releases>
-        <release version="1.43.4" date="2024-07-01">
+        <release version="1.43.5" date="2024-07-31">
             <description></description>
+        </release>
+        <release version="1.43.4" date="2024-07-01">
+            <description/>
         </release>
         <release version="1.43.3" date="2024-06-27">
             <description/>
