@@ -67,7 +67,8 @@
             "name": "compass",
             "buildsystem": "simple",
             "build-commands": [
-                "cp -r 'MongoDB Compass-linux-x64' /app/main",
+                "mkdir /app/main",
+                "cp -r * /app/main && cp -r .* /app/main",
                 "install -Dm 644 icon-64x64.png /app/share/icons/hicolor/64x64/apps/com.mongodb.Compass.png",
                 "install -Dm 644 icon-128x128.png /app/share/icons/hicolor/128x128/apps/com.mongodb.Compass.png",
                 "install -Dm 644 icon-256x256.png /app/share/icons/hicolor/256x256/apps/com.mongodb.Compass.png",
@@ -80,8 +81,8 @@
                     "only-arches": [
                         "x86_64"
                     ],
-                    "url": "https://github.com/mongodb-js/compass/releases/download/v1.45.3/mongodb-compass-1.45.3-linux-x64.tar.gz",
-                    "sha256": "fe018188d8059e33d3218eacfbbf784cdeace98e725a1c8bc6db5a652fd785f4",
+                    "url": "https://github.com/mongodb-js/compass/releases/download/v1.45.4/mongodb-compass-1.45.4-linux-x64.tar.gz",
+                    "sha256": "1c41a4c00d648f96bc3ad7d501a27fae2ddd80e382514c85dcfb98ff9a2a768c",
                     "x-checker-data": {
                         "type": "json",
                         "url": "https://api.github.com/repos/mongodb-js/compass/releases/latest",
