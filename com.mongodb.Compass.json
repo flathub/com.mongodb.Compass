@@ -6,7 +6,7 @@
     "runtime-version": "24.08",
     "sdk": "org.freedesktop.Sdk",
     "sdk-extensions": [
-        "org.freedesktop.Sdk.Extension.node20"
+        "org.freedesktop.Sdk.Extension.node22"
     ],
     "command": "run.sh",
     "separate-locales": false,
@@ -42,8 +42,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.gnome.org/sources/libsecret/0.19/libsecret-0.19.1.tar.xz",
-                    "sha256": "8583e10179456ae2c83075d95455f156dc08db6278b32bf4bd61819335a30e3a"
+                    "url": "https://download.gnome.org/sources/libsecret/0.21/libsecret-0.21.6.tar.xz",
+                    "sha256": "747b8c175be108c880d3adfb9c3537ea66e520e4ad2dccf5dce58003aeeca090"
                 }
             ]
         },
