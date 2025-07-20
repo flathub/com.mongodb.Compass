@@ -80,8 +80,8 @@
                     "only-arches": [
                         "x86_64"
                     ],
-                    "url": "https://github.com/mongodb-js/compass/releases/download/v1.46.5/mongodb-compass-1.46.5-linux-x64.tar.gz",
-                    "sha256": "90784d7afc990d6d8b1202e0d30df63b7b20326d7267af6673368732758bcd8e",
+                    "url": "https://github.com/mongodb-js/compass/releases/download/v1.46.6/mongodb-compass-1.46.6-linux-x64.tar.gz",
+                    "sha256": "f3ec91ef9bccda58506a0125f9200408e861bf8f9661f1a34e3de7ff42c33c45",
                     "x-checker-data": {
                         "type": "json",
                         "url": "https://api.github.com/repos/mongodb-js/compass/releases/latest",
