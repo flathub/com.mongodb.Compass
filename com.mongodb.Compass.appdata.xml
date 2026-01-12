@@ -6,10 +6,10 @@
     <name>MongoDB Compass</name>
     <summary>The MongoDB GUI</summary>
     <description>
+        <p>**NOTE: This wrapper is not verified by, affiliated with, or supported by MongoDBInc.**</p>
         <p>
             Easily explore and manipulate your database with Compass, the GUI for MongoDB. Intuitive and flexible, Compass provides detailed schema visualizations, real-time performance metrics, sophisticated querying abilities, and much more.
         </p>
-        <p> This wrapper is not verified by, affiliated with, or supported by MongoDBInc.</p>
     </description>
     <screenshots>
         <screenshot type="default">
