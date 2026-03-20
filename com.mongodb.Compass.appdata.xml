@@ -13,9 +13,11 @@
     </description>
     <screenshots>
         <screenshot type="default">
+            <caption>Query and explore MongoDB collections from the Compass data view.</caption>
             <image>https://www.mongodb.com/docs/compass/current/images/tabs/query-your-data.png</image>
         </screenshot>
         <screenshot>
+            <caption>Run MongoDB shell commands directly inside Compass.</caption>
             <image>https://www.mongodb.com/docs/compass/current/images/tabs/run-commands-in-the-shell.png</image>
         </screenshot>
     </screenshots>
