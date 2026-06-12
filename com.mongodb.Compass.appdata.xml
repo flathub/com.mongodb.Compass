@@ -14,22 +14,19 @@
     <screenshots>
         <screenshot type="default">
             <caption>Query and explore MongoDB collections from the Compass data view.</caption>
-            <image>https://www.mongodb.com/docs/compass/current/images/tabs/query-your-data.png</image>
+            <image>https://www.mongodb.com/docs/compass/images/tabs/query-your-data.png</image>
         </screenshot>
         <screenshot>
             <caption>Run MongoDB shell commands directly inside Compass.</caption>
-            <image>https://www.mongodb.com/docs/compass/current/images/tabs/run-commands-in-the-shell.png</image>
+            <image>https://www.mongodb.com/docs/compass/images/tabs/run-commands-in-the-shell.png</image>
         </screenshot>
     </screenshots>
     <url type="homepage">https://www.mongodb.com/</url>
     <developer_name>MongoDB Inc.</developer_name>
     <launchable type="desktop-id">com.mongodb.Compass.desktop</launchable>
     <releases>
-        <release version="1.49.9" date="2026-06-12">
-            <description></description>
-        </release>
         <release version="1.49.8" date="2026-05-26">
-            <description/>
+            <description></description>
         </release>
         <release version="1.49.7" date="2026-05-11">
             <description/>
