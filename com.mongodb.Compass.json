@@ -12,8 +12,9 @@
     "separate-locales": false,
     "finish-args": [
         "--share=ipc",
-        "--socket=x11",
         "--socket=pulseaudio",
+        "--socket=wayland",
+        "--socket=fallback-x11",
         "--device=dri",
         "--filesystem=home",
         "--talk-name=org.freedesktop.secrets",
