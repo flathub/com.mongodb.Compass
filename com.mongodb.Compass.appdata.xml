@@ -12,12 +12,16 @@
     </description>
     <screenshots>
         <screenshot type="default">
+            <caption>Build aggregation pipelines in the Compass main window.</caption>
+            <image>https://raw.githubusercontent.com/mongodb-js/compass/572285139eb7a5cf4598ff0d28a50fbca4b39f21/packages/compass/compass-screenshot.png</image>
+        </screenshot>
+        <screenshot>
             <caption>Query and explore MongoDB collections from the Compass data view.</caption>
-            <image>https://www.mongodb.com/docs/compass/images/tabs/query-your-data.png</image>
+            <image>https://raw.githubusercontent.com/mongodb/docs-compass/4ccf2ba4270d0ac32257356b9f0d78381edbcbfc/source/images/tabs/query-your-data.png</image>
         </screenshot>
         <screenshot>
             <caption>Run MongoDB shell commands directly inside Compass.</caption>
-            <image>https://www.mongodb.com/docs/compass/images/tabs/run-commands-in-the-shell.png</image>
+            <image>https://raw.githubusercontent.com/mongodb/docs-compass/4ccf2ba4270d0ac32257356b9f0d78381edbcbfc/source/images/tabs/run-commands-in-the-shell.png</image>
         </screenshot>
     </screenshots>
     <url type="homepage">https://www.mongodb.com/</url>
